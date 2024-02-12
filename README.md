@@ -10,10 +10,11 @@
 
 ## What purpose does your program serve?
 
-- Asciimatics is used to create text-based animations using ASCII values. You can manipulate colours, fonts, images in color or grey using various imports that come with the library. This library is defiately for creative purposes and could be used for creating your own games.
+- Asciimatics is used to create text-based animations using ASCII values. You can manipulate colours, fonts, images in color or grey using various imports that come with the library. My program is definetely for creative and entertainment purposes and could be used for creating my own games.
 
 ## What would be some sample input/output?
 - Sample input/output:
-  ![image](https://github.com/CS2613-WI24-FR01B/exploration-activity-1-sierrahowe1/assets/155486188/b3ed75e5-c26b-47d0-8bf9-8970d1701be5)
+  <img width="1710" alt="Screenshot 2024-02-12 at 10 54 34 AM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-sierrahowe1/assets/155486188/6e2c2f70-af16-476f-8e1b-8b4b76e3378d">
+
 
 
