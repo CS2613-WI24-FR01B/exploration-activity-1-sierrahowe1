@@ -1,1 +1,18 @@
+## Which package/library did you select?
+
+ - For this exploration activity I selected the Asciimatices library which is used to create ASCII animations using different colors, fonts, and imports. This library is used by first creating a screen which initializes the environment where you will create your ASCII text-based animation. Creating a scene is often the next step to create structure in your program, making it easier to manage if you choose to work with more complex animations. Lastly, a basic import that should be used is within the Figlet font library which allows you to utilize a variety of fonts made up of ASCII values. Using different functionalities of these imports and the basic functions of python, you can create animations like the one shown in the sample program.
+
+## What are the functionalities of the package/library?
+
+- Some of the basic functionalities of this library include, creating text animations with ASCII values, turning images into ASCII images with color and in grey, creating sprites with ASCII values, and working with different fonts in the FigletText library.
+
+## When was it created?
+
+- Asciimatics was created by Peter Brittain in 2016 when it was initially commited on GitHub.
+
+## Why did you select this package/library?
+
+- I chose to work with Asciimatics because I though it would be a good opportunity to get creative with my programming skills, which is something that I haven't had the chance to do in the past. I found it was also extremely different from anything we have learned in class and considered it a great way to expand my programming skills and knowledge.
+
+
 
