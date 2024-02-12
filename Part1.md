@@ -12,7 +12,9 @@
 This is a simple example of a program that read in a string as well as coorindates. The color magenta is saved in the variable COLOUR_MAGENTA and the bold font is created as A_BOLD. screen.print_at prints the result to the screen and sleep(10) puts the program to sleep after 10 seconds.
 
 - Here is another simple example:
-
+<img width="1920" alt="Screenshot 2024-02-12 at 5 03 03 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-sierrahowe1/assets/155486188/9ad8bc5c-77ab-4260-ab5f-bca9c1c8d622">
+For this example, our goal was to create something similar to out sample program but without the fireworks.
+We are using Cycle from effects to iterate repeatadly over our text, we can use FigletText to have access to different fonts such as bloody and isometric3, int(screen.height//2-8) sets the size of the overall screen, screen.play() plays the animation and Screen.wrapper(example2) calls and displays the function.
 
 ## What are the functionalities of the package/library?
 
