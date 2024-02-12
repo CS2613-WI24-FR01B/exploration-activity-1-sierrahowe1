@@ -18,13 +18,10 @@ We are using Cycle from effects to iterate repeatadly over our text, we can use 
 
 ## What are the functionalities of the package/library?
 
-- Some of the basic functionalities of this library include, creating text animations with ASCII values, turning images into ASCII images with color and in grey, creating sprites with ASCII values, and working with different fonts in the FigletText library.
-### Examples:
-- This example is a perputation of the second one in the previous question that shows off a different font that can be used with FigletText
+- Some of the basic functionalities of this library include, creating text animations with ASCII values, manipulate the colors of text, changing the size of the screen depending on the size of your animation, and working with different fonts in the FigletText library.
+### Example:
+- This example is a perputation of the second one in the previous question that shows off a different font that can be used with FigletText, shows how Cycle is used to iterate, how Stars work with the background and how the size of the screen is set.
   <img width="1920" alt="Screenshot 2024-02-12 at 6 13 47 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-sierrahowe1/assets/155486188/72e19352-077d-4df1-9516-000e43e1a3c2">
-
-- This example 
-
 
 ## When was it created?
 
