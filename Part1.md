@@ -27,3 +27,15 @@ We are using Cycle from effects to iterate repeatadly over our text, we can use 
 ## Why did you select this package/library?
 
 - I chose to work with Asciimatics because I though it would be a good opportunity to get creative with my programming skills, which is something that I haven't had the chance to do in the past. I found it was also extremely different from anything we have learned in class and considered it a great way to expand my programming skills and knowledge.
+
+## How did learning the package/library influence your learning of the language?
+
+- I definately got more practice with creating functions and the thought process behind them, but the library overall is very different from the basics of Python. I did enjoy doing something creative with this library in the end.
+
+## How was your overall experience with the package/library?
+
+- Overall I had a good experience with the library. At first, learning the ins and outs of the different imports and what you could do with them was a little overwhelming, but I got used to it the more I read. I would recommend this library to anyone who is looking to create a colorful text-based user interface for a game or application. This seems like to obvious choice out of the libraries that I explored when researching for this activity. I would continue using this library just for a fun experiment. It could also come to be useful in the future if I do decide to explore game or application development.
+
+## References:
+- [
+](https://asciimatics.readthedocs.io/en/stable/intro.html)https://asciimatics.readthedocs.io/en/stable/intro.html
