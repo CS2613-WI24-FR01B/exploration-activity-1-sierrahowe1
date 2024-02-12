@@ -15,6 +15,9 @@
 ## What would be some sample input/output?
 - Sample input/output:
   <img width="1710" alt="Screenshot 2024-02-12 at 10 54 34 AM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-sierrahowe1/assets/155486188/6e2c2f70-af16-476f-8e1b-8b4b76e3378d">
+<img width="1920" alt="Screenshot 2024-02-12 at 3 54 44 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-sierrahowe1/assets/155486188/7096127c-c573-4897-a8a0-766755ad9045">
+
+  
 
 
 
